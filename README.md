@@ -20,8 +20,7 @@ Here is how the Mouse Pad Looks alike:
 
 
 
-
-
+You can use this software using given steps:-
 Implementation of the software is quite simple anyone with a basic database knowledge can install this software. The steps to implement of Setup this application is mentioned below:
 
 
